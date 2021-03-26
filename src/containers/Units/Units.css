@@ -1,0 +1,24 @@
+.container{
+    padding: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.itemContainer {
+    width: 30%;
+    min-height: 25px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+}
+
+.title{
+    font-size: 1.4;
+}
+
+.companyName{
+    margin-top: 5px;
+    width: 100%;
+    font-size: 1.2rem;
+}

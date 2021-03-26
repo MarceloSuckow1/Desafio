@@ -1,0 +1,31 @@
+.container{
+    padding: 10px;
+    padding-left: 20px;
+	text-align: center;
+}
+
+.itemContainer {
+    width: 30%;
+    margin-right: 15px;
+    display: inline-block;
+    text-align: center;
+}
+
+.title{
+    font-size: 1.4;
+}
+
+.buttonContainer{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    height: auto;
+    padding: 10px;
+    background-color: #0d47a1;
+    color: white;
+    border-radius: 10px;
+}
+
+.buttonContainer:hover{
+    cursor: pointer
+}

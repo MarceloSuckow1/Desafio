@@ -1,0 +1,18 @@
+.container{
+    padding: 10px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.itemContainer {
+    width: 30%;
+    min-height: 25px;
+    margin-right: 10px;
+    display: inline-block;
+    text-align: center;
+}
+
+.title{
+    font-size: 1.4;
+}
+

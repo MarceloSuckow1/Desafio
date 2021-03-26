@@ -1,0 +1,23 @@
+/* .NavigationItems {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-flow: column;
+	width: 100%;
+	background-color: #0d47a1;
+} */
+.NavigationItems {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-flow: row;
+	height: 100%;
+	background-color: #0d47a1;
+}
+
+/* @media (max-width: 800px) {
+	.NavigationItems {
+		flex-flow: row;
+		height:100%
+	}
+} */

@@ -1,0 +1,46 @@
+.container{
+    position: absolute;
+    top: 30%;
+    padding: 10px 15px;
+    right: 20%;
+    align-self: center;
+    width: 60%;
+    background-color: #002171;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.2rem;
+    color: white
+}
+
+
+.label{
+    margin-bottom: 10px;
+    color: white
+}
+
+.buttonContainer{
+    align-self: center;
+    max-width: 60px;
+    padding: 10px;
+    background-color: #2b64e0;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.buttonContainer:hover{
+    cursor: pointer
+}
+
+.columns{
+    display:inline-block;
+    min-width: 30%;
+    margin-right: 10px;
+}
